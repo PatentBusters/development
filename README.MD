@@ -2,7 +2,7 @@
 # Patent Buster
 
 **Mistral AI Paris Hackathon**, hosted by Mistral in collaboration with Cerebral Valley and Station F  
-Sat, May 25 · 9:00am — Sun, May 26 · 5:00pm  
+Sat, May 25 Â· 9:00am â€” Sun, May 26 Â· 5:00pm  
 ![event_poster](https://github.com/PatentBusters/development/assets/42514406/1767636c-8165-49e3-b113-4f6c85f13625)
 
 <hr />
@@ -13,7 +13,7 @@ The entire submission can be found on DevPost [here](https://devpost.com/softwar
 What our solution does&nbsp;:  
 We aim at streamlining the patent search process by leveraging advanced AI technology. More specifically, leveraging on Mistral AI LLMs and LangChain for Agentic RAG with Control flow.
 ![process flow](https://github.com/PatentBusters/development/assets/42514406/9f312bf5-a4a5-4411-99ad-aea653bd3b69)
-As it happens, our knowledge base of patent was in french, so we leveraged the multilingual capacity of `mistral-large` to dialog with it from interactions in English.
+As it happens, our knowledge base of patent was in French, so we leveraged the multilingual capacity of `mistral-large` to dialog with it from interactions in English.
 
 How it looks in the wild&nbsp;:  
 ![Demo](https://github.com/PatentBusters/development/assets/42514406/06151f93-10c9-4043-ba89-7921eb271d39)
